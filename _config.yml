@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiajun Tang (唐嘉骏)"
-  avatar           : "Profile.png"
+  avatar           : "https://github.com/JIAJUN-TANG/JIAJUN-TANG.github.io/blob/main/images/Profile.png"
   bio              : "undergraduate student in the School of Literature and Journalism, Central South University."
   location         : "Changsha, China"
   employer         :
