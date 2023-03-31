@@ -1,3 +1,4 @@
+% !TEX encoding = UTF-8 Unicode
 ---
 permalink: /
 title: ""
@@ -18,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I'm an undergraduate student in Central South University.
+I'm now an undergraduate student in Central South University, studying for a B.A degree. In 2022, I was admitted by Nanjing University as a postgraduate student. My main research area is communication and media study, international communication and new media. Welcome all to contact me about anything.
 
 
 # 🔥 News
@@ -32,9 +33,9 @@ I'm an undergraduate student in Central South University.
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# :mortar_board: Educations
+- *2023.09 (admission with exam exemption)*, School of Information Management, Nanjing University. 
+- *2019.09 - 2023.06 (now)*, School of Literature and Journalism, Central South University, Bachelor of Arts. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
