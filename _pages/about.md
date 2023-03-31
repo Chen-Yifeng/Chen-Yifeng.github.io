@@ -34,13 +34,13 @@ I'm now an undergraduate student in Central South University, studying for a B.A
 - *2022.12* 中南大学一等奖学金. 
 - *2022.12* 中南大学优秀学生.
 
-# :mortar_board: Educations
+# 🎓 Educations
 - *2023.09 (admission with exam exemption)*, School of Information Management, Nanjing University. 
 - *2019.09 - 2023.06 (now)*, School of Literature and Journalism, Central South University, Bachelor of Arts. 
 
-# 💬 Student Work
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+# 🎒 Student Work
+- *2021.09 - 2022.06*, 中南大学文学与新闻传播学院朋辈心理互助会副会长. 
+- *2021.09 - 2022.06*, 中南大学大学生心理健康教育中心新媒体工作室负责人.
 
 # 💻 Internships
 - *2022.08 - 2022.11*, [Hunan Daily Press](https://hnrbjt.voc.com.cn/about/bsjj.html), China.
