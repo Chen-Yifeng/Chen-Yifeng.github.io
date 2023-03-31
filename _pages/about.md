@@ -1,4 +1,3 @@
-% !TEX encoding = UTF-8 Unicode
 ---
 permalink: /
 title: ""
@@ -30,16 +29,18 @@ I'm now an undergraduate student in Central South University, studying for a B.A
 - [How the Major Powers Persuade on Social Media: a Clue from Metadiscouse](https://iamcr.com). IAMCR 2023. Conference Proceedings. Chengzhang Zhu, **Jiajun Tang**, Yalong Xiao, Jie Feng
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.03* 中南大学优秀毕业生. 
+- *2022.12* 国家励志奖学金
+- *2022.12* 中南大学一等奖学金. 
+- *2022.12* 中南大学优秀学生.
 
 # :mortar_board: Educations
 - *2023.09 (admission with exam exemption)*, School of Information Management, Nanjing University. 
 - *2019.09 - 2023.06 (now)*, School of Literature and Journalism, Central South University, Bachelor of Arts. 
 
-# 💬 Invited Talks
+# 💬 Student Work
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.08 - 2022.11*, [Hunan Daily Press](https://hnrbjt.voc.com.cn/about/bsjj.html), China.
