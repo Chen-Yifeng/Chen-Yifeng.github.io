@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "About Jiajun Tang"
-description              : "Jiajun Tang's Personal Homepage. "
-repository               : "JIAJUN-TANG/JIAJUN-TANG.github.io"
+title                    : "About Chen Yifeng"
+description              : "Chen Yifeng's Personal Homepage. "
+repository               : "Chen-Yifeng/Chen-Yifeng.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiajun Tang (唐嘉骏)"
-  avatar           : "Profile.png"
+  name             : "Chen Yifeng (陈奕丰)"
+  avatar           : ""
   bio              : "Communication & Media Study, Information Science"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zhiju022486@163.com"
+  email            : "cyf_publisher@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
