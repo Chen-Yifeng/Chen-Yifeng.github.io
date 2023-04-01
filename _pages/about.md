@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I'm now an undergraduate student in Central South University, studying for a B.A degree. In 2022, I was admitted by Nanjing University as a postgraduate student. My main research area is communication and media study, international communication and new media. Welcome all to contact me about anything.
+I'm now an undergraduate student in Central South University, studying for a B.A degree. At the same time, I'm also a student member in the Center for Intelligent Media and Communication Research leading by my tutor. In 2022, I was admitted by Nanjing University as a postgraduate student. My main research area is communication and media study, international communication and new media. Welcome all to contact me about anything.
 
 
 # 🔥 News
@@ -26,7 +26,9 @@ I'm now an undergraduate student in Central South University, studying for a B.A
 
 
 # 📝 Publications 
-- [How the Major Powers Persuade on Social Media: a Clue from Metadiscouse](https://iamcr.com). IAMCR 2023. Conference Proceedings. Chengzhang Zhu, **Jiajun Tang**, Yalong Xiao, Jie Feng
+- [How the Major Powers Persuade on Social Media: a Clue from Metadiscouse](https://iamcr.com). "IAMCR 2023". Conference Proceedings. Chengzhang Zhu, **Jiajun Tang**, Yalong Xiao, Jie Feng
+- [中美政治话语互动中的框架争夺](https://media.ucass.edu.cn/info/1018/1511.htm). “第九届政治传播与社会发展论坛”暨“第六届政治与传播研究生论坛”. 会议论文. 冯杰、**唐嘉骏**、肖亚龙、贺天琪、陶玥竹.
+
 
 # 🎖 Honors and Awards
 - *2023.03* 中南大学优秀毕业生. 
@@ -35,10 +37,10 @@ I'm now an undergraduate student in Central South University, studying for a B.A
 - *2022.12* 中南大学优秀学生.
 
 # 🎓 Educations
-- *2023.09 (admission with exam exemption)*, School of Information Management, Nanjing University. 
-- *2019.09 - 2023.06 (now)*, School of Literature and Journalism, Central South University, Bachelor of Arts. 
+- *2023.09 **(admission with exam exemption)***, School of Information Management, Nanjing University. 
+- *2019.09 - 2023.06 **(now)***, School of Literature and Journalism, Central South University, Bachelor of Arts. 
 
-# 🎒 Student Work
+# 🎒 Student Works
 - *2021.09 - 2022.06*, 中南大学文学与新闻传播学院朋辈心理互助会副会长. 
 - *2021.09 - 2022.06*, 中南大学大学生心理健康教育中心新媒体工作室负责人.
 
