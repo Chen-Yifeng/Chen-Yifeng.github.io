@@ -19,7 +19,8 @@ redirect_from:
 
 # About Me
 I'm now an undergraduate student in [Central South University](https://en.csu.edu.cn), studying for a B.A. degree. At the same time, I'm also a student member in the Center for Intelligent Media and Communication Research leading by my tutor. In 2022, I was admitted by [Nanjing University](https://njunju.nju.edu.cn/EN/main.htm) as a postgraduate student. My main research areas include communication and media study, international communication and new media.
-I'm working on the issue dynamics in international communication. If you're interested in this topic, welcome to contact me!
+<br>I'm working on the issue dynamics in international communication. If you're interested in this topic, welcome to contact me!
+<br>Current tutor: [Chengzhang Zhu](https://faculty.csu.edu.cn/zhuchengzhang/zh_CN/index.htm). Cooperative with: Bin Dai, Yifeng Chen, Hao Feng, Jiayi Ding.
 
 
 # 🔥 News
@@ -28,8 +29,8 @@ I'm working on the issue dynamics in international communication. If you're inte
 
 # 📝 Publications 
 ## Conference Paper
-- Chengzhang Zhu, **Jiajun Tang**, Yalong Xiao, Jie Feng. [How the Major Powers Persuade on Social Media: a Clue from Metadiscourse](https://iamcr.com). 2023. "IAMCR 2023".
-- 冯杰、**唐嘉骏**、肖亚龙、贺天琪、陶玥竹. [中美政治话语互动中的框架争夺](https://media.ucass.edu.cn/info/1018/1511.htm). 2022. “第九届政治传播与社会发展论坛”暨“第六届政治与传播研究生论坛”.
+- Chengzhang Zhu, **Jiajun Tang**, Yalong Xiao, Jie Feng. [How the Major Powers Persuade on Social Media: a Clue from Metadiscourse](https://iamcr.com). "IAMCR 2023". 2023.
+- 冯杰、**唐嘉骏**、肖亚龙、贺天琪、陶玥竹. [中美政治话语互动中的框架争夺](https://media.ucass.edu.cn/info/1018/1511.htm). “第九届政治传播与社会发展论坛”暨“第六届政治与传播研究生论坛”. 2022.
 
 
 # 🎖 Honors and Awards
