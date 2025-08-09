@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "带着好奇探索世界"
-description              : "陈奕丰的个人主页 "
+description              : 
 repository               : "Chen-Yifeng/Chen-Yifeng.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈奕丰<br>（Chen Yifeng）"
+  name             : "<strong>陈奕丰</strong><br>上海交通大学媒体与传播学院博士研究生"
   avatar           : "images/apple-touch-icon.png"
-  bio              : "国际传播 & 计算传播"
-  location         : "上海，中国"
-  employer         :
+  bio              : "International Communication & Computational Communication"
+  location         : "Shanghai China"
+  employer         : "Shanghai Jiao Tong University"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "chenyifeng@sjtu.edu.cn"
