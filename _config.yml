@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<strong>陈奕丰</strong><br>上海交通大学媒体与传播学院博士研究生"
+  name             : "陈奕丰<br><span style="font-size:smaller;">上海交通大学媒体与传播学院博士研究生</span>"
   avatar           : "images/apple-touch-icon.png"
   bio              : "International Communication & Computational Communication"
   location         : "Shanghai China"
-  employer         : "Shanghai Jiao Tong University"
+  employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "chenyifeng@sjtu.edu.cn"
