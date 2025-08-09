@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "About Chen Yifeng"
+title                    : "带着好奇探索世界"
 description              : "陈奕丰的个人主页 "
 repository               : "Chen-Yifeng/Chen-Yifeng.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈奕丰（Chen Yifeng）"
+  name             : "陈奕丰<br>（Chen Yifeng）"
   avatar           : "images/apple-touch-icon.png"
-  bio              : "国际传播与计算传播"
+  bio              : "国际传播 & 计算传播"
   location         : "上海，中国"
   employer         :
   pubmed           : 
