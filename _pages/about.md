@@ -26,14 +26,16 @@ redirect_from:
 # 📝 Publications
 ## Journal Articles
 [1]  肖亚龙, 陈奕丰, 朱承璋, 冯杰. “三角结构”:“一带一路”中涉华科技议题的跨国媒体间议程设置[J].新闻与传播研究, 2025, 32(01): 100-113+128.<br>
+[2]  肖亚龙, 陈奕丰, 朱承璋, 冯杰. 全球性体育赛事的他者塑造：基于中日奥运报道的议程网络比较分析[J]. 成都体育学院学报, 定稿录用.<br>
 [2]  韩博, 刘鹏, 陈奕丰. 青春中国叙事: 一种国家形象建构新探索[J]. 新媒体与社会, 2024, (04): 325-334+426.<br>
 
 ## Conference Articles
 [1]  肖亚龙, 陈奕丰, 朱承璋, 冯杰. 作为桥梁的“一带一路”沿线国：基于主题建模与时序分析的跨国媒体间议程设置研究[C]. “政治传播：历史、现实与未来”第十届政治传播与社会发展论坛，2023.<br>
-[2]  Jie Feng, Yifeng Chen, Jiajun Tang. Competition Within, Following Between: A Time-Series Analysis of Inter-media Agenda-Setting Dynamics Between Chinese and American Media [C]. International Association for Media and Communication Research. 2025.<br>
-[3]  Yalong Xiao, Jiayi Ding, Jie Feng, Xin Jin, Yifeng Chen. How Fractured Narrative in Video Attracts Audience Meanwhile Conveys Knowledge: An Analysis of a Unique Audio-visual Content Production in China [C]. International Association for Media and Communication Research. 2022.<br>
-[4]  Dancheng Liu, Chengzhang Zhu, Jie Feng, Yifeng Chen, Xin Jin. Homogeneous or not? A Comparative Analysis on the Content of China’s State-affiliated Individual and Media Accounts on Twitter [C]. International Association for Media and Communication Research. 2022.<br>
-[5]  Chengzhang Zhu, Zimeng Yang, Yifeng Chen, Xin Jin, Jie Feng. How Chinese cities reflect their deliberation through visualizing a communicative city: a computational image recognition of city promotional film [C]. International Association for Media and Communication Research. 2022.<br>
+[2]  Yifeng Chen; Rongyi Chen; Futian Han; Zilu Zou. The Global Media Attention Toward China: A Big Data Analysis Based on GDELT [C]. ICA Regional Conference. 2025.<br>
+[3]  Jie Feng, Yifeng Chen, Jiajun Tang. Competition Within, Following Between: A Time-Series Analysis of Inter-media Agenda-Setting Dynamics Between Chinese and American Media [C]. International Association for Media and Communication Research. 2025.<br>
+[4]  Yalong Xiao, Jiayi Ding, Jie Feng, Xin Jin, Yifeng Chen. How Fractured Narrative in Video Attracts Audience Meanwhile Conveys Knowledge: An Analysis of a Unique Audio-visual Content Production in China [C]. International Association for Media and Communication Research. 2022.<br>
+[5]  Dancheng Liu, Chengzhang Zhu, Jie Feng, Yifeng Chen, Xin Jin. Homogeneous or not? A Comparative Analysis on the Content of China’s State-affiliated Individual and Media Accounts on Twitter [C]. International Association for Media and Communication Research. 2022.<br>
+[6]  Chengzhang Zhu, Zimeng Yang, Yifeng Chen, Xin Jin, Jie Feng. How Chinese cities reflect their deliberation through visualizing a communicative city: a computational image recognition of city promotional film [C]. International Association for Media and Communication Research. 2022.<br>
    
 # 🎖 Honors and Awards
 暂无
