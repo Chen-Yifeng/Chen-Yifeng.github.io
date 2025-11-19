@@ -31,7 +31,7 @@ redirect_from:
 
 ## Conference Articles
 [1]  肖亚龙, 陈奕丰, 朱承璋, 冯杰. 作为桥梁的“一带一路”沿线国：基于主题建模与时序分析的跨国媒体间议程设置研究[C]. “政治传播：历史、现实与未来”第十届政治传播与社会发展论坛，2023.<br>
-[2]  Yifeng Chen; Rongyi Chen; Futian Han; Zilu Zou. The Global Media Attention Toward China: A Big Data Analysis Based on GDELT [C]. ICA Regional Conference. 2025.<br>
+[2]  Yifeng Chen, Rongyi Chen, Futian Han, Zilu Zou. The Global Media Attention Toward China: A Big Data Analysis Based on GDELT [C]. ICA Regional Conference. 2025.<br>
 [3]  Jie Feng, Yifeng Chen, Jiajun Tang. Competition Within, Following Between: A Time-Series Analysis of Inter-media Agenda-Setting Dynamics Between Chinese and American Media [C]. International Association for Media and Communication Research. 2025.<br>
 [4]  Yalong Xiao, Jiayi Ding, Jie Feng, Xin Jin, Yifeng Chen. How Fractured Narrative in Video Attracts Audience Meanwhile Conveys Knowledge: An Analysis of a Unique Audio-visual Content Production in China [C]. International Association for Media and Communication Research. 2022.<br>
 [5]  Dancheng Liu, Chengzhang Zhu, Jie Feng, Yifeng Chen, Xin Jin. Homogeneous or not? A Comparative Analysis on the Content of China’s State-affiliated Individual and Media Accounts on Twitter [C]. International Association for Media and Communication Research. 2022.<br>
